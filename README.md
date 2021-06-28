@@ -14,6 +14,11 @@ Details on the "keys" of the USB keyboard (10 Keyboard/Keypad Page (0x07)): http
 ## Schematic
 ![badly drawn schematic](SkypeMicMute_schematic.png?raw=true)
 
+## Protoype
+![working prototype](SkypeMicMute_prototype.jpg?raw=true)
+
+Protoype (red button for Sykpe, blue button something else). 
+
 
 ## Code
 

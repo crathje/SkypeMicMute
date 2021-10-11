@@ -1,3 +1,6 @@
+[![Actions Status](https://github.com/crathje/SkypeMicMute/workflows/PlatformIO%20CI/badge.svg)](https://github.com/crathje/SkypeMicMute/actions)
+
+
 # SkypeMicMute
 Using a Digistump compatible Arduino board to mute and unmute the microphone in Skype for Business (Windows+F4)
 
@@ -22,4 +25,4 @@ Protoype (red button for Sykpe, blue button something else).
 
 ## Code
 
-[SkypeMicMute.ino](SkypeMicMute/SkypeMicMute.ino)
+[SkypeMicMute.ino](SkypeMicMute/src/SkypeMicMute.ino)

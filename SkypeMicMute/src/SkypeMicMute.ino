@@ -24,7 +24,7 @@ void setup() {
 void loop() {
   if (!digitalRead(PIN_KEY_B0)) {
     DigiKeyboard.sendKeyStroke(0); // advised by the library to handle some cases where the first keypress is lost
-    DigiKeyboard.sendKeyStroke(KEY_F4, MOD_GUI_LEFT); //  (WINDOWS+D)
+    DigiKeyboard.sendKeyStroke(KEY_F4, MOD_GUI_LEFT); //  (WINDOWS+F4)
     DigiKeyboard.delay(250); // lazy debounce
   }
   DigiKeyboard.update(); // handle USB stuff
